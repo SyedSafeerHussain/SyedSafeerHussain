@@ -16,7 +16,7 @@ I'm Safeer Hussain, a highly motivated student and developer focused on building
 * **Libraries/Frameworks**: Selenium, Scrapy, BeautifulSoup, Flask, Pandas
 * **AI & APIs**: OpenAI GPT API, NewsAPI, WeatherAPI
 * **Database**: SQLite3
-* **Other Tools**: Git, GitHub, Postman, VS Code, Jupyter, Linux Terminal
+* **Other Tools**: Git, GitHub, Postman, VS Code, Linux Terminal
 
 ---
 
