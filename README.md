@@ -6,16 +6,16 @@
 
 ### 🧾 About Me
 
-I'm an Artificial Intelligence student (BSAI, 4th Semester) at Superior University with a strong academic foundation (3.56 CGPA), highly focused on building **production-ready, intelligent automation tools**. I specialize in web scraping, AI integration, building workflows with n8n, and crafting smart solutions to real-world problems. My journey is driven by clean architecture, a passion for deep learning, and a desire to automate the boring while delivering highly efficient systems.
+I'm an Artificial Intelligence student (BSAI, 4th Semester) at Superior University , highly focused on building **production-ready, intelligent automation tools**. I specialize in web scraping, AI integration, building workflows with n8n, and crafting smart solutions to real-world problems. My journey is driven by clean architecture, a passion for deep learning, and a desire to automate the boring while delivering highly efficient systems.
 
 ---
 
 ### 🧰 Tech Stack & Tools
 
-* **Languages**: Python, C++
+* **Languages**: Python, C++, Java
 * **Automation & Scraping**: Selenium, Scrapy, BeautifulSoup, n8n
 * **AI & APIs**: OpenAI GPT API, Twilio API
-* **Web & Data**: Flask, Pandas
+* **Web & Data**: Flask, Pandas, FastAPI
 * **DevOps & Tools**: Docker, Git, GitHub, VS Code, Linux Terminal
 * **Database**: SQLite3
 
